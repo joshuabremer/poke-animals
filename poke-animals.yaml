@@ -1,0 +1,177 @@
+- name: berriber
+  hp: 109
+  types:
+    - bug
+  attacks:
+    - name: digdozer
+      damage: 17
+    - name: snake poison
+      damage: 41
+    - name: body frontflip
+      damage: 23
+      effect: paralyze
+      effectChance: 1.0
+
+- name: piledbeerber
+  evolvesFrom: berriber
+  hp: 90
+  types:
+    - bug
+    - slime
+  attacks:
+    - name: flinchstorm
+      damage: 45
+      effect: flinch
+      level: 20
+    - name: poison ink jab
+      damage: 3
+      effect: poisoned
+    - name: toxic bee stinger
+      damage: 12
+
+- name: pebilel
+  hp: 10009
+  types:
+    - rock
+    - psychic
+  attacks:
+    - name: psychic bomb
+      damage: 28
+    - name: pebble outline
+      damage: 13
+      effect: pebblyxzed
+      effectChance: 55.84
+
+- name: ivilibingbi
+  hp: 900
+  types:
+    - sky
+    - psychic
+  attacks:
+    - name: injinx
+      damage: 999999999999999
+    - name: double cutter
+      damage: 35
+
+- name: sramlerli
+  hp: 100
+  types:
+    - flying
+    - normal
+  attacks:
+    - name: wing attack
+      damage: 43
+    - name: peck
+      damage: 93
+
+    - name: giga impact
+      damage: 1121
+      effect: flinch
+
+- name: unknown nwonknu
+  hp: 999999999
+  types:
+    - type1
+    - type2
+  attacks:
+    - name: attack1
+      damage: 999
+    - name: attack2
+      damage: 999
+      effect: effect1
+      effectChance: 999.999
+    - name: attack3
+      damage: 999
+      effect: effect2
+      effectChance: 999.999
+      level: 999
+
+- name: pokeanimaltemplate
+  hp: 999999999
+  types:
+    - type1
+    - type2
+  attacks:
+    - name: attack1
+      damage: 999
+    - name: attack2
+      damage: 999
+      effect: effect1
+      effectChance: 999.999
+    - name: attack3
+      damage: 999
+      effect: effect2
+      effectChance: 999.999
+      level: 999
+
+- name: pokeanimaltemplate
+  hp: 999999999
+  types:
+    - type1
+    - type2
+  attacks:
+    - name: attack1
+      damage: 999
+    - name: attack2
+      damage: 999
+      effect: effect1
+      effectChance: 999.999
+    - name: attack3
+      damage: 999
+      effect: effect2
+      effectChance: 999.999
+      level: 999
+
+- name: pokeanimaltemplate
+  hp: 999999999
+  types:
+    - type1
+    - type2
+  attacks:
+    - name: attack1
+      damage: 999
+    - name: attack2
+      damage: 999
+      effect: effect1
+      effectChance: 999.999
+    - name: attack3
+      damage: 999
+      effect: effect2
+      effectChance: 999.999
+      level: 999
+
+- name: pokeanimaltemplate
+  hp: 999999999
+  types:
+    - type1
+    - type2
+  attacks:
+    - name: attack1
+      damage: 999
+    - name: attack2
+      damage: 999
+      effect: effect1
+      effectChance: 999.999
+    - name: attack3
+      damage: 999
+      effect: effect2
+      effectChance: 999.999
+      level: 999
+
+- name: pokeanimaltemplate
+  hp: 999999999
+  types:
+    - type1
+    - type2
+  attacks:
+    - name: attack1
+      damage: 999
+    - name: attack2
+      damage: 999
+      effect: effect1
+      effectChance: 999.999
+    - name: attack3
+      damage: 999
+      effect: effect2
+      effectChance: 999.999
+      level: 999
